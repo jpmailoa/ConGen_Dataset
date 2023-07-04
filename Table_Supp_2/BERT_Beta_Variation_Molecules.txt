@@ -1,0 +1,61 @@
+beta: reset parameters
+CC(C)(C)OC(=O)N1CCC2CCCCC2C1=O
+COCCOCCOc1cccc2c1ONO2
+CC(C)(C)OC(=O)N1CCC2CCCCC2C1=O    --> repeat molecule
+COc1ccc(CC(=O)NCc2ccccc2)cc1
+CC(C)(C)OC(=O)N1CCC2(CC1)OCCCC2
+COCCOCCOCCOc1ccccc1
+CC(C)(C)OC(=O)N1CCC2(CC1)OCCCC2     --> repeat molecule
+O=[N+]([O-])c1ccccc1CSc1ncccn1
+CC(C)(C)OC(=O)N1CCC2(CC1)OCCC2
+O=C(O)c1ccc2c(c1)C(=O)c1ccccc1C2=O
+
+beta: 1000
+COc1ccc(NC(=O)c2ccco2)cc1
+COc1ccc(NC(=O)c2ccco2)cc1    --> repeat molecule
+Cc1ccc(NC(=O)c2ccc([N+](=O)[O-])cc2)cc1
+CC(=O)Nc1ccc(NC(=O)C)cc1
+COc1ccc(C(=O)Nc2ccc([N+](=O)[O-])cc2)cc1
+COc1ccc(C(=O)Nc2ccc([N+](=O)[O-])cc2)cc1    --> repeat molecule
+COC(=O)c1ccccc1OC
+CCOC(=O)c1ccccc1NC(=O)C
+CCOC(=O)c1ccc([N+](=O)[O-])cc1OC
+COC(=O)c1ccc(-c2ccccc2)cc1    --> repeat molecule
+
+beta: 3000
+
+COc1ccc(C(=O)O)cc1C
+CC(C)C(=O)Nc1ccccc1
+CC(C)C(=O)NC(=O)c1ccccc1
+CC(C)(C)C(=O)Nc1ccccc1
+CC(C)C(=O)Nc1ccccc1    --> repeat molecule
+CC1CCCCN1C(=O)c1ccccc1
+COc1cccc(C(=O)N2CCCCC2)cc1    --> invalid SMILES
+COc1ccc(C(=O)N(C)cc1    --> invalid SMILES
+COc1ccccc1C(=O)N1CCCCC1
+CCc1ccc(C(=O)N2CCCCCCC2)cc1
+
+beta: 30000
+COc1ccc(C(=O)N2CCCCC2)cc1OC
+CC(=O)Nc1ccc(C(=O)Oc2ccccc2)cc1
+COc1ccccc1C(=O)N1CCCCCCC1
+Cc1nc(-c2ccccc2)nn1CC(F)(F)F
+Cc1cc(C(=O)Nc2cccc(C(F)(F)F)c2)no1
+COc1ccccc1NC(=O)c1ccccc1[N+](=O)[O-]
+CC(C)(C)OC(=O)c1ccc(Br)cc1
+Cc1nc(-c2ccccc2)nn1CC(F)(F)F    --> repeat molecule
+COc1ccccc1C(=O)N1CCCCCCC1    --> repeat molecule
+COc1ccccc1CC(=O)N1CCCCCC1
+
+beta: 100000
+Cc1ccc(NC(=O)c2cccc([N+](=O)[O-])c2)o1
+N#Cc1ccc(N2C(=O)c3ccccc3C2=O)cc1
+O=C(Nc1ccccc1)c1ccc2c(c1)OCCO2
+COCCOCCOc1ccc([N+](=O)[O-])cc1O
+CCOC(=O)c1ccc(C(=O)OC(C)(C)C)cc1
+COc1ccccc1C=CC(=O)N1CCCCC1=O
+CCOC(=O)C1CCCN1C(=O)OC(C)(C)C
+Cc1ccc(NC(=S)NCCCOC)cc1C
+COC(=O)c1ccc(C(Cl)(Cl)Cl)cn1
+COC(=O)c1ccc(C=NNc2ccccc2)cc1
+

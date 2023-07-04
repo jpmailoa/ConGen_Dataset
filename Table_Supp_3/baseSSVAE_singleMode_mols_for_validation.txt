@@ -1,0 +1,35 @@
+Molwt = 250
+Clc1cc(Cl)c(Cl)cc1Br
+O=C(O)c1ccc(C(=O)NC2CCCCCC2)cc1
+CNC1=CN(C)C=C/C1=C1/C=CN(C)C(C(=O)O)=C1
+CC1(C)CC(=O)c2cc(Br)ccc21
+CC(C(=O)N1CCOCC1)c1ccc(Cl)cc1
+O=C(C1CCOCC1)N1CCc2sccc2C1
+Cc1cccc(CNC(=O)CCc2ccccc2)c1
+COC1=CC(=C2C=CN(C)C=C2)C=CN1CC#N
+CC(O)c1cc(C(=O)NC2CCCCC2)cs1
+COc1cc(NC(=O)c2ccccc2F)ccn1
+
+LogP = 2.5
+O=C[C@@]12C[C@]1(O)CO2
+CCc1ccccc1N1CC(C(=O)OCC(=O)NCc2ccccc2)CC1=O
+C#Cc1cccc2c1NSN2C(C)(C)C
+CCc1[nH]c2ccc(C(=O)N3CCN(CC(C)C)CC3)cc2n1
+Cc1ccc(S(=O)(=O)NCc2ccc(C(=O)N3CCCC3)cc2)cc1
+O=C(c1cc(F)cc(F)c1)N1CCC(n2nnc3ccccc3c2=O)CC1
+Cc1cc(Cl)ccc1NC(=O)CN(C)CC(=O)NC(C)(C)C
+COc1ccc(C(=O)OCC(=O)Nc2ccc3c(c2)OCCO3)cc1OCC
+CN(C)S(=O)(=O)c1cc(C(F)(F)F)ccc1Cl
+CN(C)c1cc(C(F)(F)F)cc2c1NSN2
+
+IE = 5.0
+COc1ccc(NC(=O)c2ccc(OC)c(OC)c2)cc1
+O=C(C=Cc1cccc([N+](=O)[O-])c1)NCC1CCCO1
+COCCOCOc1ccc(C(Cl)(Cl)Cl)s1
+O=C(c1ccc(Cl)cc1)N1CCN(C(=O)c2ccc(Cl)cc2)CC1
+COC(=O)c1cc(S(=O)(=O)Nc2cc(C)ccc2C)ccc1Cl
+CCC(=O)c1ccc(NC(=O)c2ccc(OC)c(OC)c2)cc1
+COc1ccc(S(=O)(=O)N(CC(=O)Nc2ccc(C)cc2)c2ccccc2)cc1
+O=C1NC(=O)N(Cc2ccccc2)C1=O
+COC(=O)c1cc(S(=O)(=O)Nc2ccc(OC)c(OC)c2)ccc1Cl
+CCOC(=O)C1=C(CN2CCCC2)NC(=O)NC1c1ccccc1

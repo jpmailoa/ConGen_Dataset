@@ -1,0 +1,11 @@
+SMILES,EA,IE
+COc1ccc(NC(=O)c2ccco2)cc1,1.711281,5.745147
+COc1ccc(NC(=O)c2ccco2)cc1,1.711281,5.745147
+Cc1ccc(NC(=O)c2ccc([N+](=O)[O-])cc2)cc1,3.374359,6.25026
+CC(=O)Nc1ccc(NC(=O)C)cc1,0.491985,5.837499
+COc1ccc(C(=O)Nc2ccc([N+](=O)[O-])cc2)cc1,3.016007,6.629499
+COc1ccc(C(=O)Nc2ccc([N+](=O)[O-])cc2)cc1,3.016007,6.629499
+COC(=O)c1ccccc1OC,1.736077,6.581505
+CCOC(=O)c1ccccc1NC(=O)C,2.028578,6.464043
+CCOC(=O)c1ccc([N+](=O)[O-])cc1OC,3.405419,7.096173
+COC(=O)c1ccc(-c2ccccc2)cc1,2.10337,6.56089
